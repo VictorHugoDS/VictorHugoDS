@@ -6,7 +6,7 @@ I'm Victor Hugo Duarte, I'm graduating in Computer Science at UFMT Cuiabá.
 
 -  23 Years old
 -  Living in Cuiabá, but I'was born in Rio de Janeiro city
--  Working as fullstack developer in Politec - Cuiabá
+-  Working as backendDeveloper at SIS - Consultoria
 
 
 ### 👨🏾‍💻  Interests
